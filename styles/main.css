@@ -1,0 +1,12 @@
+:root {
+    --color-background: #181719;
+    /* font-size: 60%; */
+}
+
+* {
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: white;
+}
+
